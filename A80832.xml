@@ -1,0 +1,437 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>God's arraignment of Adam: declared in a sermon preach'd at St Pauls, Septemb 5. 1658. before the right honorable the Lord Major, aldermen, and Common-Council. By Thomas Cartwright, M.A. of Queens Coll. Oxon. and now vicar of Walthamstow in Essex.</title>
+            <author>Cartwright, Thomas, 1634-1689.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80832</idno>
+            <idno type="STC">Wing C698</idno>
+            <idno type="STC">Thomason E960_1</idno>
+            <idno type="STC">ESTC R207676</idno>
+            <idno type="EEBO-CITATION">99866714</idno>
+            <idno type="PROQUEST">99866714</idno>
+            <idno type="VID">118998</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80832)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118998)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 143:E960[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>God's arraignment of Adam: declared in a sermon preach'd at St Pauls, Septemb 5. 1658. before the right honorable the Lord Major, aldermen, and Common-Council. By Thomas Cartwright, M.A. of Queens Coll. Oxon. and now vicar of Walthamstow in Essex.</title>
+                  <author>Cartwright, Thomas, 1634-1689.</author>
+               </titleStmt>
+               <extent>[4], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for John Baker, at the sign of the Peacock in S. Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659 [i.e. 1658]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nouemb: 17".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Thomason copy bound with items from November, 1658.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Corinne Vieracker</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Corinne Vieracker</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118998:1" rendition="simple:additions"/>
+            <p>GOD's ARRAIGNMENT OF ADAM: DECLARED In a Sermon preach'd at S<hi rend="sup">t</hi> PAULS, <hi>Septemb.</hi> 5. 1658. before the right Hono<g ref="char:EOLhyphen"/>rable the Lord Major, Aldermen, and Common-Council.</p>
+            <p>By <hi>Thomas Cartwright,</hi> M. A. of Queens Coll. <hi>Oxon.</hi> and now Vicar of <hi>Walthamſtow</hi> in <hi>Eſſex.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Baker,</hi> at the ſign of the Peacock in S. <hi>Pauls</hi> Church-yard, 1659.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:118998:2"/>
+            <pb facs="tcp:118998:2"/>
+            <head>To the Right Worſhipful and much Honored JOHN ROBINSON Eſquire, Alderman, and then She<g ref="char:EOLhyphen"/>riffe of the City of <hi>London.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hen your command gave life to this Sermon, I did not imagine that it could have been expos'd to any ſuch uncharitable cenſures as might force it to return to your name for ſhel<g ref="char:EOLhyphen"/>ter and protection; by which means <hi>I</hi> doubt not but it will find better en<g ref="char:EOLhyphen"/>tertainment then it can deſerve, or I hope for: For now unleſs they reſolve to run the hazard of a publick diſgrace, they muſt needs bluſh to proclaim their diſlike of that, which a perſon of ſo much honour and judgment as your<g ref="char:EOLunhyphen"/>ſelf, was pleas'd (with many other good men) in the hear<g ref="char:EOLhyphen"/>ing to approve of; and therefore I preſume will not now diſlike of. Sir, I knew when I preach'd it, that telling the truth was not the way to inſinuate into many of my Au<g ref="char:EOLhyphen"/>ditors affections, and if I am therefore become their ene<g ref="char:EOLhyphen"/>my, my caſe is in this no worſe then Saint <hi>Pauls, Gal. 4. ver. 16.</hi> Nor indeed are they ſuch <hi>Cato's,</hi> as that it ſhould be puniſhment enough to be condemned by them; but they rather publiſh <hi>the clearneſs of the light</hi> in declaring how <hi>offenſive it was to their e<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es.</hi> The honey is never the worſe, becauſe it made their wounds to ſmart: If Saint
+<pb facs="tcp:118998:3"/> 
+               <hi>John Baptiſt</hi> had been onely a <hi>ſhining</hi> and not a <hi>burning Lamp,</hi> he might poſsibly have kept his head upon his ſhoulders: when the truth ſhews <hi>it ſelf,</hi> there is none can diſlike it; but when it ſhews <hi>them,</hi> there are many that hate it, becauſe it gives Check-mate to their intereſt; and ſuch I hope will appear to be their diſpleaſure, whoſe ſto<g ref="char:EOLhyphen"/>machs could not digeſt this Sermon almoſt a quarter of a year after they receiv'd it. Wholeſom meat muſt not be kept from the table, becauſe ſome agu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh ſtomachs nauſeate it. It was delivered in as general terms as I could think upon, that ſo they who are angry might accuſe themſelvs.</p>
+            <p>Sir, If there be any thing in it that may be worthy of your peruſal, be pleas'd to accept it as <hi>your due,</hi> and a teſtimony of <hi>my gratitude;</hi> for having run ſo long up<g ref="char:EOLhyphen"/>on the ſcore, till the <hi>intereſt</hi> of your favours exceeds the <hi>principal</hi> of my abilities, rather then I would put off ſo noble a Creditor with a <hi>Non ſum ſolvendo,</hi> I thought it more commendable, with the bad borrowers of our times, to begin the paiment of great debts by ſuch a ſlender com<g ref="char:EOLhyphen"/>poſition as this; there is a power in your aceptance to make its meanneſs faſhionable, and to teach others to have a more charitable opinion of</p>
+            <closer>
+               <salute>Sir,</salute> 
+               <signed>Your Worſhips moſt obliged ſervant and Chaplain, Tho. Cartwright.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:118998:3"/>
+            <head>GOD's ARRAIGNMENT OF ADAM.</head>
+            <epigraph>
+               <bibl>Gen. 3. 9.</bibl>
+               <q>And the Lord called unto <hi>Adam,</hi> and ſaid unto him, Where art thou?</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">N</seg>O Sooner does a man ſtep out of <hi>Gods high-way</hi> into the <hi>by-paths</hi> of wickedneſs, but he is travelling in the ready road to miſery. <hi>Sin</hi> and <hi>puniſhment</hi> like <hi>Hypocrates his twins</hi> goe hand in hand together; ſo that as ſoon as that unprofitable work of wicked<g ref="char:EOLhyphen"/>neſs is done, the wages of death is ready to be payd it; for as <hi>mercy</hi> will permit no <hi>good deed</hi> to go <hi>unrewarded,</hi> ſo <hi>juſtice</hi> will let no <hi>bad deed</hi> go <hi>unpuniſh't:</hi> And if you trace theſe <hi>bitter ſtreams,</hi> you will find their <hi>fountain</hi> to be but a little above my text; in which you h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve
+<pb n="2" facs="tcp:118998:4"/> the <hi>Judge</hi> of heaven and earth managing a <hi>legal <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ſs</hi> againſt our <hi>firſt parents</hi> for the <hi>firſt breach</hi> of his Law, of which they were newly guilty; and that he who is the rule of all juſtice and equity, might appear moſt perfect in it him<g ref="char:EOLhyphen"/>ſelf, before he <hi>ſentences</hi> the Delinquents he <hi>ſummons</hi> them before him to plead to that <hi>Inditement</hi> which their own conſciences had found againſt them, which is ſummed up in my Text: in which I might obſerve; 1. <hi>The Judge,</hi> the Lord. 2. <hi>The priſoner,</hi> Adam. 3. <hi>His Summons,</hi> he was call'd, as it were, to the bar, and by his <hi>inditement, where art thou?</hi> i. e. in what condition, whether <hi>guilty or not?</hi> But that my diſcourſe may be the more methodical, I ſhall ra<g ref="char:EOLhyphen"/>ther divide the whole into two parts:</p>
+            <p n="1">I. <hi>Magna vocantis benignitas,</hi> the great benignity of the party calling, which appears if you look upon the words in theſe ſix ſenſes, of which they are eaſily capable; <hi>viz.</hi> As they are either.</p>
+            <list>
+               <item>1. <hi>Verba Judicis reum citantis:</hi> the words of a Judge to his arraigned priſoner.</item>
+               <item>2. <hi>Verba patris filium increpantis:</hi> the increpation of a father chiding his ſon.</item>
+               <item>3. <hi>Verba medici conf<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſionem morbi extorquere conantis:</hi> the words of a Phyſician, inquiring into the condition of his patient.</item>
+               <item>4. <hi>Verba creatoris, creaturae ſuae ſortem commiſerantis:</hi> the words of a Creator commiſerating the condition of his lapſed creature<g ref="char:punc">▪</g>
+               </item>
+               <item>5. <hi>Verba Prophetae, veritatem conditionis ſuae indicantis:</hi> the prophetical words of the <hi>God of truth,</hi> declaring to <hi>Adam the truth</hi> of his condition.</item>
+               <item>6. <hi>Verba monitoris, culpam ſuam in memoriam reducentis:</hi> the words of a monitor, putting the offender in mind of his offence.</item>
+            </list>
+            <p n="2">II. <hi>Magna vocati malignitas:</hi> the great <hi>malignity of the party called:</hi> viz. of <hi>Adam,</hi> who becauſe he offended firſt, muſt firſt be handled.</p>
+            <p>Now his offence was <hi>the eating of the forbidden fruit,</hi> which was the cauſe of his fall from that ſtate of integrity in
+<pb n="3" facs="tcp:118998:4"/> which God had created him. But perhaps you'l deſire that the Apoſtle Saint <hi>Paul</hi> may be admitted to plead for him, and that I would take his words into conſideration, 1 <hi>Tim.</hi> 2 14. <hi>Adam was not ſeduced, but the Woman being ſeduced was in the tranſgreſſion:</hi> and if ſo, how coms it then to paſs that he is charg'd here with delinquency in my text, and that he himſelf confeſſes, <hi>ver. 12. That the woman gave him of the tree, and he did eat.</hi>
+            </p>
+            <p>For the better reconciliation of which two texts (which are not ſo <hi>unlike,</hi> but that they may both be <hi>father'd</hi> upon the God of truth) conſider,</p>
+            <p n="1">1. That <hi>Adam</hi> was not ſeduc'd as was the woman, <hi>imme<g ref="char:EOLhyphen"/>diately,</hi> nor <hi>ſtrictly</hi> and <hi>externally</hi> by the fraud and diſcourſe of the <hi>Serpent;</hi> nor <hi>before</hi> (as he was created) but <hi>after</hi> her, and <hi>by</hi> her.</p>
+            <p n="2">2. The Apoſtle does not treat ſo much of the <hi>ſeduction</hi> it ſelf, as of the <hi>manner and order of it;</hi> ſo that the <hi>wmman</hi> who was <hi>created last, ver.</hi> 13. (ſaies hee) was <hi>ſeduced firſt,</hi> ver. 14 And this puts us in mind to conſider, why it then is, that God laies this charge to him particularly by name, and not rather to her; for he does not ſay <hi>Eve,</hi> but <hi>Adam w<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e art thou?</hi> which certainly was becauſe hee was her <hi>Husband,</hi> and ſo conſequently her <hi>head,</hi> and her <hi>ſuperior:</hi> from whence we may deduce theſe two concluſions: <hi>viz.</hi>
+            </p>
+            <p n="1">1. That the <hi>quantity of the offence</hi> is to be meaſured (amongſt other circumſtances) from the <hi>quality of the offen<g ref="char:EOLhyphen"/>dor.</hi>
+            </p>
+            <p n="2">2. That <hi>a ſuperior</hi> ſhall be called to an account not only for <hi>his own,</hi> but likewiſe for the offences of <hi>thoſe that are under him.</hi>
+            </p>
+            <p>And firſt, of the former of the two: <hi>viz.</hi>
+            </p>
+            <p>That the <hi>quantity of the offence,</hi> is to be meaſured (a<g ref="char:EOLhyphen"/>mongſt o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her circumſtances) from <hi>the quality of the offender:</hi> for though <hi>Eve</hi> had ſinned firſt, yet <hi>Adam</hi> is ſummon'd firſt, though <hi>ſhe</hi> had firſt offended, yet was <hi>he</hi> firſt blamed, becauſe he was <hi>her ſuperior</hi> and ſo ſhould not have <hi>followed her,</hi> eſpecially when ſhe did not follow the commands of her God.</p>
+            <pb n="4" facs="tcp:118998:5"/>
+            <p>The <hi>greatneſs of the man</hi> is ſo far from <hi>leſning,</hi> 
+               <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> it <hi>augments</hi> the greatneſs of his offence. The <hi>higher</hi> God has plac'd them, the <hi>greater</hi> is their <hi>fall,</hi> and ſo will their pu<g ref="char:EOLhyphen"/>niſhment be, for <hi>Gods lawes</hi> are not <hi>like Cobwebs</hi> which on<g ref="char:EOLhyphen"/>ly catch the <hi>leſſer flyes;</hi> but amongſt a multitude of delin<g ref="char:EOLhyphen"/>quents, he firſt takes care to cull out <hi>the fatteſt,</hi> and ſacrifice them to his juſtice. <hi>Laertius</hi> tells us of <hi>Diogene,</hi> that he complained, that the <hi>greater thieves</hi> in his time did ordina<g ref="char:EOLhyphen"/>rily puniſh the <hi>leſſer,</hi> and yet ſecure themſelves, that <hi>ſecret thieves</hi> condemned <hi>open robbers;</hi> but when God comes to ſit in judgment, he will ſummon <hi>the biggeſt</hi> to the bar firſt, and make them give an exact account of their miſdemeanors, that ſo their <hi>puniſhment</hi> may be as exemplary as their <hi>tranſ<g ref="char:EOLhyphen"/>greſſions,</hi> and that they who went before others in <hi>ſin,</hi> might likewiſe go before them in <hi>ſuffering.</hi>
+            </p>
+            <p>This then condemns all ſuch corrupt magiſtrates, who like fiſhing-rods ſtand ind<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fferently ſtraite, when a ſmall fiſh is to be taken up, but bow and yeild when ſome grea<g ref="char:EOLhyphen"/>ter one is to be hanged and drawn up; not conſidering that Gods Vicegerents ſhould be like himſelf, who is not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, an <hi>accepter of perſons,</hi> but one who will ſet the ſad<g ref="char:EOLhyphen"/>dle<note place="margin">Acts 10. 34.</note> upon the right horſe, puniſh the <hi>rich</hi> as well as <hi>the poor,</hi> the <hi>greateſt</hi> as well as the <hi>meaneſt men.</hi>
+            </p>
+            <p>
+               <hi>Examples</hi> work more upon moſt men, then <hi>precepts,</hi> who read <hi>lives</hi> more then <hi>books;</hi> and therefore if they whoſe carriage ſhould be as a <hi>looking-glaſs</hi> for others to <hi>dreſs</hi> their lives by, ſhall <hi>repreſent falſe things</hi> to them, God will quick<g ref="char:EOLhyphen"/>ly <hi>break them,</hi> that others may no longer be the worſe for them: If they who ſhould not be a <hi>law</hi> to others, become a <hi>ſtumbling-block,</hi> God will in mercy to others take care to remove them out of the way.</p>
+            <p>
+               <hi>Gods anger</hi> is hightned with <hi>mens ingratitude,</hi> and therefore when they whom he has placed a <hi>degree above others,</hi> whe<g ref="char:EOLhyphen"/>ther in <hi>knowledg</hi> or <hi>dignity</hi> ſhall <hi>fall ſhort</hi> of others in the practiſe of godlineſs, their <hi>knowledg</hi> being without <hi>obedience,</hi> and their <hi>honour</hi> without <hi>holineſs,</hi> will but ſerve to damn them the more profoundly. In how ſad a condition are theſe men who preſuming upon ſuch like priviledges have ſo groſly
+<pb n="5" facs="tcp:118998:5"/> abuſed Gods love, as to ſide with the firſt againſt the ſe<g ref="char:EOLhyphen"/>cond Table of the Decalogue, boaſting of their <hi>godlineſs,</hi> and yet overlooking the punctilio's of <hi>upright dealing,</hi> whereas <hi>godlineſs and moral honeſty</hi> ceaſe to be, by being parted. Cer<g ref="char:EOLhyphen"/>tainly thoſe that tread in that path miſtake the way to hea<g ref="char:EOLhyphen"/>ven; for the buſineſs of our ſalvation does not conſiſt in the <hi>keeping of Sabbaths</hi> and <hi>faſts,</hi> in <hi>repetition of long pray<g ref="char:EOLhyphen"/>ers, in receiving of the monthly Sacrament;</hi> I doubt many Hypocrites have done all theſe, and yet are damned into the bargain; he that does not go on farther, to the ob<g ref="char:EOLhyphen"/>ſervation of the ſecond Table, muſt ſit down on this ſide heaven: The performance of ſome part of his duty will never apologize for the neglect of the other, his <hi>keeping of faſts</hi> will never abſolve him from <hi>breach of oaths.</hi> His <hi>frequenting of Sermons</hi> will never make <hi>ſacriledg</hi> a ver<g ref="char:EOLhyphen"/>tue; his <hi>long prayers</hi> will <hi>fall ſhort</hi> of acquitting him from <hi>oppreſſion;</hi> nor will his configuring to a form of Godlineſs ever make amends for his <hi>cheatings;</hi> his <hi>parts, places, privi<g ref="char:EOLhyphen"/>ledges</hi> and <hi>preſerments,</hi> if not accompanied with <hi>righteouſ<g ref="char:EOLhyphen"/>neſs</hi> to his neighbours as well as <hi>holineſs</hi> to his God, will <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e as ſo many <hi>milstones about his neck</hi> to ſink him the deeper into the bottomleſs pit of deſtruction. If the <hi>magiſtrate</hi> 
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hare in the <hi>peoples ſins,</hi> the <hi>husband</hi> in his <hi>wifes,</hi> or the <hi>ma<g ref="char:EOLhyphen"/>ſter</hi> in his <hi>families,</hi> they ſhall likewiſe be the copartners with <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem in their <hi>ſufferings,</hi> and have the <hi>precedence</hi> then too as well as at other times. Though <hi>Adam</hi> ſinned <hi>after,</hi> yet <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as he called to an account <hi>before Eve.</hi>
+            </p>
+            <p>And this calls upon me to inſiſt on the ſecond propoſiti<g ref="char:EOLhyphen"/>on, viz.</p>
+            <p>That a <hi>ſuperior</hi> offending ſhall be called to an account, not only for his own, but likewiſe for the offences of thoſe that are under him.</p>
+            <p>Becauſe when he is with them in any villany; they do of<g ref="char:EOLhyphen"/>fend (as they think) by <hi>preſcription,</hi> and ſo by prompting, or participating with them, he becomes guilty of their crimes.</p>
+            <p>Alas! they think themſelves priviledged to ſin with ſuch Authors, as if the <hi>conſcienciouſneſs</hi> of their duty were <hi>unman<g ref="char:EOLhyphen"/>nerly</hi>
+               <pb n="6" facs="tcp:118998:6"/> (if not <hi>ſaucie</hi>) when it gave <hi>check-mate</hi> to the crimes of their Superiors.</p>
+            <p>A <hi>Magiſtrate</hi> is as it were the <hi>Phyſician</hi> of his Subjects, upon whoſe <hi>preſcriptions</hi> their <hi>lives and ſafeties</hi> do depend; if therefore he either <hi>adminiſter</hi> things that are <hi>prejudicial</hi> to them, or by his <hi>ill example</hi> or <hi>ſilence</hi> ſeem to countenance them, their <hi>blood may juſtly be required at his hands:</hi> The <hi>Phyſician</hi> may eaſily be guilty of his <hi>Patients</hi> miſcarriage, and if his <hi>skill</hi> be not anſwerable to his <hi>profeſſion,</hi> the more <hi>practice</hi> he has, the more <hi>unhappineſs:</hi> In him 'tis a greater fault to be acceſſory to a man's death, than in any other, be<g ref="char:EOLhyphen"/>cauſe it is a breach of truſt.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>t in corporibus, ſic in imperio, graviſſimus eſt morbus qui</hi>
+               <note place="margin">Plin.</note> 
+               <hi>à capite diffunditur:</hi> As in the <hi>body natural,</hi> ſo likewiſe in the <hi>Politick,</hi> thoſe diſeaſes are moſt dangerous which ſeize firſt upon the <hi>Head. Superior ſibi indulgens peracerbus eſt in ſubditos:</hi> A Magiſtrate does not onely hurt himſelf, but his ſubjects by his ſins; and therefore 'tis but reaſon that hee who multiplies other mens ſufferings, ſhould likewiſe him<g ref="char:EOLunhyphen"/>ſelf be beaten with many ſtripes.</p>
+            <p>When the Judges know not God who plac'd them in au<g ref="char:EOLhyphen"/>tority, and underſtand not his <hi>Law, which ſhould be a lant<g ref="char:EOLhyphen"/>horn to their feet, and a light to their paths;</hi> when they will neither learn what is their office <hi>from others,</hi> nor yet under<g ref="char:EOLhyphen"/>ſtand it of <hi>themſelves;</hi> then all the <hi>foundations of the earth are</hi>
+               <note place="margin">Pſal. 82. 5.</note> 
+               <hi>out of courſe</hi> (ſaies <hi>David;</hi>) all <hi>fundamental Laws, all com<g ref="char:EOLhyphen"/>mendable cuſtoms, all good orders</hi> (which are the very <hi>baſis</hi> and foundation of humane ſocieties) are broken: And therefore when they who ſhould eſtabliſh others, are them<g ref="char:EOLhyphen"/>ſelvs unſetled; when they that like <hi>Atlas</hi>'s ſhould bear up others, ſhall ſtoop of themſelves, the manifold inconvenien<g ref="char:EOLhyphen"/>ces that follow their offence will cry aloud to the offended juſtice of heaven, to make <hi>them drink deep of the vials of his vengeance.</hi>
+            </p>
+            <p>
+               <hi>Conſtantia praecepti eſt exemplum praecipîentis, nutat<g ref="char:EOLhyphen"/>mandatum quod non ſtabilitur ſuperioris, moribus:</hi> The con<g ref="char:EOLhyphen"/>firmation of a precept is the example of him that commands it; and the people look upon that Law as null'd and abro<g ref="char:EOLhyphen"/>gated
+<pb n="7" facs="tcp:118998:6"/> which is not to be read in the lives of them who ſhould inforce it, ſo that their ſins being both <hi>vicious</hi> and <hi>ſcandalous,</hi> muſt needs have a double <hi>puniſhment.</hi>
+            </p>
+            <p>
+               <hi>Scarlet crimes</hi> are of a <hi>double dye,</hi> and therefore God will aſſuredly <hi>take the more notice</hi> of them. If you whom God has plac'd higher then others, ſhall offend him more highly then others, how can you flatter your ſelves with the leaſt hopes of eſcaping his fury? The fall of <hi>Lucifer</hi> was the more impardonable, becauſe it was a fall from heaven. <hi>Adams ſin</hi> was the more inexcuſable, becauſe 'twas commit<g ref="char:EOLhyphen"/>ted by him the then <hi>Monarch</hi> of this lower world. If <hi>Moſes</hi> the Prince of God's peopleſin, how can be expect to <hi>enter into the promiſed land?</hi> If <hi>Aaron</hi> the Prieſt (whoſe life and mouth ſhould ſpeak the ſame Creed) offend, Gods wrath muſt needs be incens'd against him. <hi>Tantò majus peccatum eſ<g ref="char:EOLhyphen"/>ſe cognoſcitur, quantò major qui peccat habetur.</hi> Needs muſt it grieve our <hi>Saviour to be wounded in the houſe of his friends,</hi> and trouble him much to conſider, that one of his own A<g ref="char:EOLhyphen"/>poſtles ſhould give the blow. That the brutiſh <hi>Gadarens</hi> ſhould eſteem their <hi>ſwine</hi> above their <hi>Saviour</hi> is no great wonder; but that they who a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e in <hi>covenant with him</hi> ſhould rather part with <hi>him</hi> that <hi>their ſins,</hi> is a prodigie; and therefore when they whom <hi>he has married to himſelf in ever<g ref="char:EOLhyphen"/>laſting kindneſs,</hi> ſhall <hi>run a whoring after their own inventi<g ref="char:EOLhyphen"/>ons,</hi> a double puniſhment will certainly overtake them, and that for a double reaſon:</p>
+            <p n="1">1. Becauſe they ſin againſt a greater meaſure of <hi>knowledg</hi> than other men: <hi>Ignorance</hi> may ſometimes excuſe in part, but <hi>knowledge</hi> does alwaies aggravate a crime. <hi>Weakneſs</hi> cannot mitigate more, than does <hi>wilfulneſs</hi> highten an of<g ref="char:EOLhyphen"/>fence. They therefore that <hi>know their maſters will, and do it not:</hi> they that have <hi>graces,</hi> and imploy them not; they that have <hi>talents,</hi> and improve them not; they that ſee the <hi>right way,</hi> and yet will not walk in it, they deſerve not more <hi>pity,</hi> but more <hi>puniſhment</hi> than others.</p>
+            <p n="2">2. Becauſe they ſin againſt a greater meaſure of mercies than other men, and that ſpeaks their unthankfulneſs. When God had done ſo much, that he could not do more for his
+<pb n="8" facs="tcp:118998:7"/> 
+               <hi>Vineyard,</hi> then certainly for it to <hi>bring forth wild grapes,</hi> 
+               <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſerv'd a curſe. To whom much is given, of him will much <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> expected; and to whom much is forgiven, of him will much be required. Where God <hi>ſowes benefits</hi> he expects to <hi>reap gratitude,</hi> (that's all the return we can make him for his mercies;) and therefore when he miſſes that <hi>obedience</hi> which in <hi>duty</hi> and <hi>gratitude</hi> we ought to have yielded him, no won<g ref="char:EOLhyphen"/>der if he <hi>pay us the wages</hi> which are due to ſuch <hi>diſobedient</hi> and <hi>ingrateful ſervants</hi> as we are. If men abuſe the digni<g ref="char:EOLhyphen"/>ties and places with which God has intruſted them, to the ſcandal and prejudice of thoſe that are under them, their puniſhment ſhal quickly let them know there is a God above them, who will ſummon them to give <hi>an account of their Stewardſhip.</hi> The <hi>Inferiour</hi> may firſt break the ice in ſin<g ref="char:EOLhyphen"/>ning, but yet if the <hi>Superiour</hi> follow him, he ſhall have no other priviledge but to be puniſht before him. <hi>Eve</hi> firſt taſted of the <hi>forbidden fruit,</hi> but <hi>Adam</hi> muſt firſt taſte of the <hi>bitter conſequences</hi> of it; for behold the great <hi>Judge</hi> of heaven and earth calls him to the Bar to anſwer for both; <hi>Adam, where art thou?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Applic. </seg>
+               </label> The Application of this Doctrine ſhould be in an Uſe of Caution. Is it ſo, that a Superiour offending muſt be call'd to an account not onely for his own, but likewiſe for the of<g ref="char:EOLhyphen"/>fences of thoſe that are under him? then <hi>Cavete quid facitis,</hi> Take heed what ye do, (remembring that that wit is al<g ref="char:EOLhyphen"/>waies better cheap, which is purchaſed with the <hi>fight of other mens puniſhments,</hi> than with the <hi>feeling of your own</hi>) the higher is your place, the greater will be your fall; and the greater your talents are, the more will you ſuffer for the miſ-imploiment of them. If you who ſhould be like <hi>Conſtan<g ref="char:EOLhyphen"/>tine</hi> and <hi>Theodoſius, Scuta Chriſtianorum,</hi> the bucklers of thoſe Chriſtian people that are committed to your charge, ſhall butcher them, in betraying their liberties and perſons to the violence and malice of their enemies; if you who are as it were <hi>the ſingers of that hand</hi> with which God does rule this part of the world, ſhall favour ſome, fear others, and ſo not judge uprightly, God will certainly ſweep you away as he did <hi>Nebuchadnezar,</hi> with the <hi>beſome</hi> of deſtruction, till
+<pb n="9" facs="tcp:118998:7"/> your bodies be brought to their graves, and your ſouls to hell; and then ſhall the ſurvivers take up this proverb againſt<note place="margin">Iſa. 14. 4.</note> you, as they did againſt the King of Babylon, and ſay, <hi>How have the oppreſſors ceaſt, the golden city ceaſt?</hi> If you who ſhould be the Keepers of the peace both of Church and Sta<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, ſhall be <hi>Docti in perturb and â utriuſque pace,</hi> more rea<g ref="char:EOLhyphen"/>dy to make than to hinder ſuch uneven reckonings as fra<g ref="char:EOLhyphen"/>ctions are, you may expect that God ſhould give you an ex<g ref="char:EOLhyphen"/>act and punctual paiment at laſt. If you who ſhould lead others in the <hi>paths of truth and righteouſneſs,</hi> ſhall either <hi>lead</hi> them, or be <hi>led by them</hi> into the <hi>by-paths</hi> of error and inju<g ref="char:EOLhyphen"/>ſtice, God will ſummon you to the <hi>bar</hi> to anſwer theirs and your own tranſgreſſions. <hi>Adam</hi> was concerned in <hi>Eves</hi> as well as his own offence, becauſe God gave the Law to him; and he by command to her, as committed to his charge; and therefore when he permitted her not onely <hi>to eat her<g ref="char:EOLunhyphen"/>ſelf,</hi> but likewiſe <hi>to ſet his teeth on edge,</hi> to taſte of the for<g ref="char:EOLhyphen"/>bidden fruit, he quickly heard of it on both ears; for im<g ref="char:EOLhyphen"/>mediately after God comes to him with an unwelcom ſum<g ref="char:EOLhyphen"/>mons, ſaying, <hi>Adam, where art thou?</hi> Which brings me to the ſecond general part of my Text, <hi>viz.</hi>
+            </p>
+            <p>2. <hi>Magna vocantis benignitas,</hi> The infinite mercy of God, in that he firſt ſought <hi>Adam,</hi> and call'd him to an ac<g ref="char:EOLhyphen"/>count ſo ſoon after his tranſgreſſion; which will appear if you look upon the words in thoſe ſix ſenſes of which they are capable, <hi>viz.</hi> as they are</p>
+            <p>1. <hi>Verba Judicis reum citantis,</hi> The words of a Judge to his arraigned priſoner. God is not ſo prone to condemne men as willing to acquit them, and therefore before he ſentences <hi>Adam,</hi> he is willing to call him to the bar, and to examine him what it is that he can ſay for himſelf; <hi>Adam, where art thou?</hi> Though it is impoſſible for <hi>Adam</hi> to have done any thing which might eſcape God's knowledge (he being acquainted with the very ſecrets of our hearts) <hi>Judi<g ref="char:EOLhyphen"/>ciario tamen more interrogat Deus à reo id quod planè ſcit, ut vel hinc diſcant Judices reum interrogare quod ipſi neſciunt, &amp;</hi>
+               <note place="margin">Rupertus &amp; Abulenſis.</note> 
+               <hi>ſe ſcire praeſumunt, ne quem inauditum damnent aut puniant:</hi> Yet that his judgment might appear ro be juſt, he proceeds
+<pb n="10" facs="tcp:118998:8"/> legally againſt him, and asks him that which he knew wel enough before, that he might leave Judges a preſident to ask the priſoner ſuch things which they preſum'd to know, but might poſſibly be ignorant of, and ſo by an over-haſty judgment might condemn or puniſh them before they heard them. God was willing to try whether <hi>Adam</hi> could clear himſelf <hi>of the whole,</hi> or excuſe himſelf <hi>in part</hi> of the crime: ſo that he choſe rather to conceal his knowledge of the fault, then to ſentence the Delinquent, before he had given him leave to make his defence. The Divel (that <hi>old Serpent</hi>) was ſentenc'd indeed without any ſummons, becauſe 'twas impoſſible that he ſhould either <hi>clear his innocence,</hi> or <hi>make out his repentance.</hi> But God deals not ſo with us, that we might not deal ſo with one another; for before <hi>Adam</hi> is <hi>ſentenced,</hi> he is <hi>ſummond</hi> to anſwer for himſelf, <hi>Adam, where art thou?</hi> From whence we may draw theſe two concluſions, <hi>viz.</hi>
+            </p>
+            <p n="1">1: That it is a raſh and over-haſty judgment to paſs ſentence upon an arraigned perſon, before we hear what it is that he can reply to his accuſation.</p>
+            <p n="2">2 That judgment treads upon the heels of a ſinner.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Conclu. </seg>1</label> That it is a raſh &amp; over-haſty judgment to, &amp;c. <hi>Qui ſta<g ref="char:EOLhyphen"/>tuit aliquid parta inanditâ alterâ, aquum feciſſet ſi nun<g ref="char:EOLhyphen"/>quam ſtatuiſſet.</hi> It were better not to judg at all, then to do it before you lend an equal care to both parties. A judg had need know that man well to whom he truſts both his eares; nor can there be a greater blemiſh charged upon him, than that he will believe the <hi>probable argument</hi> of a <hi>friend,</hi> before the <hi>demonſtration</hi> of an enemy; or that he cannot read any cauſe but thorow <hi>the falſe ſpectacles of a favourite;</hi> by which means he can never clearly ſee what it is that the <hi>plaintiffe</hi> or the <hi>priſoner</hi> can plead for themſelves. Though the tempeſt were ſo great that the Ship was likely to be broken, and <hi>Jonah</hi> declared to be the cauſe of the dan<g ref="char:EOLhyphen"/>ger by <hi>the infallible oracle of heaven,</hi> yet the <hi>Mariners</hi> (who are uſually in a greater rage then the Sea it ſelf) would<note place="margin">Jonah 1. 8.</note> not caſt him over board till they had put theſe queſtions to him; <hi>For whoſe cauſe is this evil come upon us? What is
+<pb n="11" facs="tcp:118998:8"/> thing occupation? whence comeſt thou? what is thy country? why haſt thou done this? what ſhall we do unto thee?</hi>
+            </p>
+            <p>
+               <hi>Quem ſors judicaverat cogunt propria voce confiteri,</hi> (as tis in the interlineary Gloſs;) though the lot had judged him yet they asked him ſome queſtions as forc't him to confeſs it himſelf, before they put the judgment in execution. <hi>Rei inauditi &amp; indefenſi tanquam innocentes pereunt.</hi> It is as ju<g ref="char:EOLhyphen"/>ſtifiable to condemn an <hi>innocent</hi> perſon as one that is <hi>guilty</hi> before you have heard what defence he is able to make for himſelf.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>
+               </label> Be not ſo over-haſty therefore as to judg any man or his cauſe before you have heard ot examined it.</p>
+            <p>Take heed of being <hi>over-curious</hi> in obſerving or <hi>over-criti<g ref="char:EOLhyphen"/>cal</hi> in judging a <hi>mote</hi> in your brethrens eyes, leſt they turn a<g ref="char:EOLhyphen"/>gain, &amp; to your greater ſhame, reprove you for a <hi>beam</hi> in your own. Conſider that charity will never make her concluſions like thoſe of the Syllogiſme, to follow the <hi>worſer</hi> part, but the <hi>better;</hi> nor will ſhe judg men <hi>by a few actions</hi> (leſt the ſentence ſhould fall too heavy upon the <hi>righteous</hi>) but <hi>by all,</hi> and (as near as ſhe can) ſquare her judgment accor<g ref="char:EOLhyphen"/>ding to that ſtraight rule of the Schools, <hi>In judicandis aliis, eorum bona certa meliora, certa mala minora; bona dubia certa; dubia mala nulla judicemus.</hi> In the judging of o<g ref="char:EOLhyphen"/>thers, let us reckon their <hi>certain good works</hi> to be <hi>better</hi> than they are; their <hi>certain miſcarriages</hi> to be <hi>leſſer;</hi> if their <hi>good deeds</hi> be <hi>doubtful,</hi> let us look upon them as if they were <hi>certain;</hi> if their <hi>offences</hi> be <hi>doubtful,</hi> let us judg them <hi>none</hi> at all. A doctrine that could never be more ſeaſonably preſt than in this age of ours, in which the multitude, like <hi>flyes</hi> that ſtick only upon ſores, are apt to make even <hi>the pre<g ref="char:EOLhyphen"/>cious oyntment</hi> of a good name unſavory; and ſuch are thoſe who will not be induced to believe <hi>that any good thing can come out of Nazareth,</hi> I mean that any piety can lodg in ſuch mens breaſts as are not of their party; and ſo being rapt with the pang of a furious and miſordered zeal, do judg, cenſure and condemn them, before ever they hear what e<g ref="char:EOLhyphen"/>vidence they are able to produce of a <hi>power of godlineſs</hi> working effectually in them beyond the <hi>bare form,</hi> of which
+<pb n="12" facs="tcp:118998:9"/> they are perhaps accuſed. They preſume too much of them<g ref="char:EOLhyphen"/>ſelves, who think they are as well acquainted with their bro<g ref="char:EOLhyphen"/>thers tranſgreſſions as God was with <hi>Adam</hi>'s, and yet he <hi>was</hi> pleaſed to <hi>hear</hi> him before he <hi>judged</hi> him, to <hi>ſummon</hi> him before he <hi>ſentenc'd</hi> him, ſaying, <hi>Adam, where art thou?</hi> And thus much for the firſt inference; the ſecond followes, <hi>viz.</hi>
+            </p>
+            <p>2. That judgment treads upon a ſinners heels. No ſooner had <hi>Adam</hi> taſted of the forbidden fruit, but God called him to an account for his tranſgreſſion, ſaying, <hi>Adam, where art thou?</hi> Sin is not leſs old than <hi>Adam,</hi> and puniſhment is alto<g ref="char:EOLhyphen"/>gether as old as ſin; ſo that after his work is done, a <hi>ſin<g ref="char:EOLhyphen"/>ner</hi> ſeldome tarries long for his <hi>wages</hi> which <hi>is death.</hi> God is ſaid <hi>to ride upon the wings of the wind,</hi> to intimate that it will not be long before he overtake his enemies. The <hi>gall of bitterneſs</hi> does immediately ſucceed the <hi>honey of ſin;</hi> nor do thoſe <hi>rivers</hi> of unlawful pleaſures ever leave <hi>running</hi> till they are buried in <hi>the ſalt ſea</hi> of miſeries. Sin is like <hi>Gunpowder,</hi> no ſooner toucht with an hot appetite, but it immediately flyes in our faces; ſo that it is ill <hi>fighting</hi> for the Divel (as a ſinner does) ſince the <hi>preſſe-money</hi> that he gives them is no ſmall puniſhment, and it will not be long before he pay them to the full; nay the more ſervice his Souldiers do him, the worſe it fares with them, for he ſtudies nothing more then how to torment them moſt; because their <hi>Tra<g ref="char:EOLhyphen"/>gedy</hi> ſhall never have an <hi>Epilogue,</hi> he takes care that where <hi>old</hi> go off, <hi>new ſcenes</hi> of miſeries ſhall be ready to take their <hi>Cut's.</hi> So that <hi>ſin</hi> and <hi>ſuffering</hi> are relatives, near akin one to the other; they are but like the two neighbouring links of that chain in which a ſinner is bound, the one hangs or borders upon the other, ſo that he who bears one muſt bear both. <hi>Credas individuo nexu ſceleri illigatam poenam, aut inhaerentem calcaneo illius tanquam viperam. Suffering</hi> is ſo firmly <hi>entailed</hi> upon <hi>ſinning,</hi> that nothing but <hi>Gods mer<g ref="char:EOLhyphen"/>cy</hi> upon our repentance can <hi>cut off the entail:</hi> For other<g ref="char:EOLhyphen"/>wiſe what <hi>Solomon</hi> ſayes of <hi>one</hi> holds true of <hi>every ſin, ori</hi>
+               <note place="margin">Acts 28. 5.</note> 
+               <hi>noviſſimo mordebit,</hi> and he that would ſuffer no harm by it, muſt with St. <hi>Paul</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſhake <hi>this viper</hi> into the fire, left it pull him into thoſe unquenchable flames out of which there is no eſcape.</p>
+            <pb n="13" facs="tcp:118998:9"/>
+            <p>If <hi>Adam</hi> offend againſt the law of God, his own con<g ref="char:EOLhyphen"/>ſcience will be ſure to <hi>endite</hi> him, and the <hi>Judg</hi> of hea<g ref="char:EOLhyphen"/>ven and earth will call him to the bar, as he did in the language of my Text, <hi>Adam where art thou?</hi> which may be conſidered, <hi>Secondly,</hi> as they are,</p>
+            <p>2. <hi>Verba patris, filium increpantis;</hi> the words of a fa<g ref="char:EOLhyphen"/>ther, rebuking his ſon; in which the affection of a fa<g ref="char:EOLhyphen"/>ther mitigates the ſeverity of the judg. God is not like that ſevere Roman, <hi>qui exuit patrem, ut conſulem ageret,</hi> who put off the father that he might put on the Conſul; for he does not condemn <hi>Adam</hi> without any more adoe (as he did the lapſed Angels) but he gives him an op<g ref="char:EOLhyphen"/>portunity of repentance, and in tenderneſs calls him to him after his delinquency, that ſo he might have an op<g ref="char:EOLhyphen"/>pertunity to ſue out his pardon: As if he had ſaid; O my ſon what is become of thy obedience and duty which thou oweſt to thy father? how prodigal art thou of thy happineſs? how quickly haſt thou morgag'd that inheri<g ref="char:EOLhyphen"/>tance which I ſo lately ſetled upon thee in Paradice? how earneſtly doeſt thou endeavour to diſinherit thy ſelf and thy poſterity? art thou ſo willing to deveſt thy ſelf of the title of a ſon of God, to be ſtiled a ſlave of ſin? doeſt thou not foreſee the dangerous conſequences of this thy diſobedience? what will be the end of thy travel<g ref="char:EOLhyphen"/>ling on in this road? is it not high time for me now to call thee to an account and to reckon with thee for thy tranſgreſſions? how canſt thou poſſibly expect that I ſhould ſpare thee any longer whilſt thou continueſt in this perverſe courſe; turn thine eye into thine own breſt and ſee what will become of thee: <hi>Adam, where art thou?</hi> which may be wound up on this bottom, <hi>viz.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Concluſ. </seg>
+               </label> That the love of a father is never ſo clearly manifeſted, as when he can even oblige his children by reproving them.</p>
+            <p>
+               <hi>Dignus patre amor eſt, quem cenſura conſileat.</hi> It is the commendation of a fathers affection, when it can ſo allay the ſowreneſs of a reproofe that the patient ſon may not digeſt it but reliſh it kindly. Thus did our Sa<g ref="char:EOLhyphen"/>viour<note place="margin">John 4. 19</note>
+               <pb n="18" facs="tcp:118998:10"/> Chriſt oblige the woman of <hi>Samaria</hi> even by the diſcovery of her ſhame; for when he told her of her adultery ſhe made no reply but this; Sir, <hi>I perceive thou art a prophet, and immediately miniſtred unto him.</hi>
+            </p>
+            <p>When the party reproved can perceive that the reproof is the reſult of the reprovers love, he cannot chuſe but be in love with it; for the laſhes of a father are better then the kiſſes of an enemy; reproofs that are thus qualified are like <hi>Seneca's poma ſuaviter aſpera,</hi> Apples that have a pleaſant ſowreneſs in them, and ſo are more accepta<g ref="char:EOLhyphen"/>ble to the beſt pallates then flattering Sweetings.</p>
+            <p>Now that we may ſo correct our brother as not to corrupt him, we muſt come to him as God here did to <hi>Adam</hi> in the cool of the day, when his paſſion is over; and like the King of Bees, bring honey but no ſting a<g ref="char:EOLhyphen"/>long with us; and this is a leſſon chiefly to be learned of them who are termed fathers of their country, which very name carryes clemency along with it.</p>
+            <q>Homer. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</q>
+            <p>That ſo the greater is their <hi>power,</hi> the leſſer may bee their <hi>paſſion.</hi> Set <hi>Moſes</hi>'s meekneſs as a pattern before you, and then though you do rebuke men in hatred of their faults, yet you will do it in love and long-ſuffering, remembring your ſelves to be his Vicegerents, who has ſaid, <hi>That he will viſit their iniquities with ſtripes, never<g ref="char:EOLhyphen"/>theleſs his loving kindneſs will he not utterly take from</hi>
+               <note place="margin">Pſal. 89. 32, 33.</note> 
+               <hi>them;</hi> And thus did he deal with <hi>Adam,</hi> whom by a <hi>pa<g ref="char:EOLhyphen"/>ternal increpation</hi> he indeavor'd to move to repentance, ſaying, <hi>Adam, where art thou?</hi> which you may look up<g ref="char:EOLhyphen"/>on thirdly, as they are</p>
+            <p>3. <hi>Verba medici, confeſſionem morbi extorquere conantis:</hi> the words of a Phyſician, inquiring into the condition of his patient. He does not condemne, he does not reproach, he does not revile him, but makes a gentle ſearch into his diſeaſe, a meek inquiry into the ſtate and condition in which he then was, ſaying, <hi>Adam, where art thou?</hi> leaſt the remedy ſhould offend him more than the diſ<g ref="char:EOLhyphen"/>eaſe.</p>
+            <pb n="19" facs="tcp:118998:10"/>
+            <p>Though hee knew well enough where, and in what condition <hi>Adam</hi> now was, yet was he pleas'd in ſtarting this <hi>Quaere</hi> to tempt him to confeſſion, and then by an argument drawn from his preſent deſperate condition to ſeek out for a Saviour, of which he could not but be the<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſenſible how much need he had: as if he ſhould have ſaid, <hi>Adam,</hi> how diſhonorable is that which thou haſt lately acted, to me, and how deſtructive to thy ſelf? Do'ſt not thou feel an inſupportable burthen upon thy ſhoul<g ref="char:EOLhyphen"/>ders? Does not the Law purſue thee for a rebel? Where wilt thou take Sanctuary? There's nothing wanting but execution to make thee irrecoverably miſerable: Give me leave to ſearch thy ſoar, that ſo at length I may ſalve it; tell me, how doſt thou feel thy ſelf? <hi>Adam, where art thou?</hi> From whence we may draw this concluſion, <hi>Viz.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Concluſ. </seg>
+               </label> That an hearty and ingenuous confeſſion of our failings to Almighty God, is the beſt invitation for his mercy to reſtore and ſtrengthen us.</p>
+            <p>The confeſſion of our diſeaſe makes way for our Phy<g ref="char:EOLhyphen"/>ſician; which he that neglects, does careleſly ſleight his own cure. <hi>Ipſe ſibi denegat curam, qui ſuam medico non pub<g ref="char:EOLhyphen"/>licat cauſam.</hi> It's bad to tranſgreſs, but it is worſe to deny it; for 'tis a ſign that we are not ſufficiently a<g ref="char:EOLhyphen"/>ſham'd of the offence, when we bluſh to confeſs it. <hi>Pri<g ref="char:EOLhyphen"/>mae ſanitatis pars, eſt velle ſanari.</hi> The firſt ſtep to health is a deſire to obtain it, which cannot be expreſt without an acknowledgment of our diſeaſe. He that is unwil<g ref="char:EOLhyphen"/>ling to diſcover his wound, is not deſirous to part with it: The beggar will freely ſhew his raggs as the beſt in<g ref="char:EOLhyphen"/>vitation for your charity to relieve him. The Petitioner will neglect no means poſſible of diſcovering his grievan<g ref="char:EOLhyphen"/>ces, that ſo his Prince may be the more graciouſly plea<g ref="char:EOLhyphen"/>ſad to redreſs them; The Malefactor muſt confeſs his crime, before ever he be capable of a pardon. When a ſinner is caught with the Tempters hook, he muſt (as the fiſh <hi>Scolopendra</hi> does its bowels) caſt it out again by an humble confeſſion, unleſs he deſire to be further enſuar'd.
+<pb n="16" facs="tcp:118998:11"/> 
+               <hi>Non perit qui ſuum agnoſcit errorem,</hi> an humble ack<gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ledgment of our ſins to God is the onely way to ſmother them. 'Twas the <hi>Prodigals peccavi</hi> which mov'd his fa<g ref="char:EOLhyphen"/>ther to make him ſo welcom. The Phariſees <hi>Non ſum ſicut</hi> (I am not like other men) ſtopt the current of God's mercy; but the Publicans <hi>Miserere mei</hi> (Lord be mer<g ref="char:EOLhyphen"/>ciful to me a ſinner) open'd it. That therefore God may not impute our ſins to us, let us ſoundly aggravate them to our ſelvs; for the onely way poſſible to hide our ſins from him, is to lay them open before him, from whom indeed they can never be hid. When he call us to <hi>con<g ref="char:EOLhyphen"/>feſſion,</hi> we muſt anſwer at the firſt word, if we do expect the benefit of an <hi>abſolution.</hi>
+            </p>
+            <p>That the Chirurgion might ſearch his Patients ſore, and ſo apply a ſuitable plaſter to it, he bids him open it; and thus did God deal with <hi>Adam,</hi> ſaying, <hi>Adam, where art thou?</hi> which words may, fourthly, be look'd upon as they are,</p>
+            <p>4. <hi>Verba creatoris, creaturae ſuae ſortem commiſerantis:</hi> The words of a Creator, commiſerating the condition of his lapſed creature and ſo they are <hi>Verba dolendi,</hi> words of pity; and as much as if he had ſaid, Alas! thou art upon the brink of deſtruction, thou art become the moſt ſad object that ever eye ſhall bedew with tears of pity. Thou wert cloathed with innocence, but now art thou naked! What's becom of that image after which I form'd thee? Who has robb'd thee of thoſe gra<g ref="char:EOLhyphen"/>ces with which I beautify'd thy ſoul? What witneſſe riſes up againſt thee? <hi>Quis test is adeſt, quis detulit?</hi> (who purſues thee? what's the meaning of thoſe bluſhes, thoſe fig-leavs? I left thee in one place, but I am now to ſeek thee in another: Whither flieſt thou? <hi>Adam, where art thou?</hi> From whence we may infer,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Concluſ. </seg>
+               </label> 
+               <hi>That a juſt man is alwaies in Gods preſence, but a ſinner flies from it.</hi>
+            </p>
+            <p>
+               <hi>Cain</hi> had no ſooner ſtain'd his ſoul with his brothers <hi>Abels</hi> blood, <hi>but he went out of the preſence of the Lord. Adam</hi> had no ſooner committed the treſpaſs, but he fled
+<pb n="17" facs="tcp:118998:11"/> for it<g ref="char:punc">▪</g> when he was juſt and upright, he walkt before God, but now having tranſgreſt he is ſought out by God, <hi>Adam, where art thou?</hi> There is this evil (which indeed is the cauſe of all other) entailed upon ſin, that it makes a ſinner as it were a ſtranger to God; it blo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s ſuch out of the book of his remembrance, and when he comes to make up his jewels he caſts them aſide with a <hi>Neſcio vos. I know you not, depart from me ye workers of iniquity.</hi> Is not ſin a ſtrange defacing of the ſoul, when he that firſt made it, does not then know it? Deſperate muſt needs be the condition of that creature, of which the creator himſelf ſeems to be ignorant; and were there no other Hell this would make it a kind of damnation to be a ſin<g ref="char:EOLhyphen"/>ner.</p>
+            <p>Amongſt others of Gods names in Hebrew [<hi>Machon</hi>] is one (which ſignifies a <hi>place</hi>) and therefore the que<g ref="char:EOLhyphen"/>ſtion was moſt pertinent whereby God enquires of <hi>Adam</hi> where he was, ſince he moved not in his proper orbe, ſince he was not to be found in his right place, <hi>Locus e<g ref="char:EOLhyphen"/>nim hominis Deus eſt, extra quem nuſquam bene eſt.</hi> He<note place="margin">Rupertus.</note> that is not in God (not intereſted in him) is not in his proper place, and the farther he ſtrayes from him, the nearer does he draw to miſery.</p>
+            <p>Tis a ſign he is not where he would be, when God and his conſcience or any other meſſenger, propound this queſtion to him that he did to <hi>Adam,</hi> ſaying, <hi>Adam where art thou?</hi> which may be conſidered, fifthly, as they are.</p>
+            <p>5. <hi>Verba prophet<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> veritatem conditionis ſuae indicantîs.</hi> The prophetical words of the God of truth declaring to <hi>Adam</hi> the truth of his condition. <hi>Adam where art thou?</hi> And ſo the interrogation is a moſt keene and vehement form of aſſertion, whereby God (does not doubt him<g ref="char:EOLhyphen"/>ſelf but) labours to certifie <hi>Adam</hi> of the truth of his condition, <hi>viz.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Conclu. </seg>
+               </label> That no place could be ſafe for a ſinner; but when he thinks himſelf moſt, then indeed is he leaſt ſecure. There's is no corner can ſecure or priviledg him from the
+<pb n="22" facs="tcp:118998:12"/> arreſt of Gods judgments, but he who ſearches all, will find him out in any place, ſo that he can never be ſafe till he be at peace with his maker; for there is no peace, ſayes my God, to the wicked. <hi>Qui in peccato eſt, in perditione eſt.</hi> He that drinks in iniquity like waters is plunged over head and eares in miſeryes; and this was that Doctrine, which God here preacht to <hi>Adam</hi> ſo ſoon after his fall. As if he ſhould have ſaid in other terms. <hi>Adam,</hi> deceive not thy ſelf with thoſe fig leaves, let the woman no longer beguile thee, nor the ſerpent both of you; for you have loſt your innocency, and in that your happineſs. Do you not now ſee what a cheat the Divel has put upon you? and how by crediting the fa<g ref="char:EOLhyphen"/>ther of lyes before the God of truth, you and your po<g ref="char:EOLhyphen"/>ſterity are fallen into his hands? do you not perceive what a change is wrought in you for the worſe: <hi>Heu Quantum mutatis ex ipſo?</hi> I made you, but you have mar'd your ſelves; conſider what I did for you, and how your have undone your ſelf: I left you in a far better con<g ref="char:EOLhyphen"/>dition then I now find you; turn your eye into your own breſt, and there read the truth of your preſent condition, let not your heart deceive you, deal impartially with your ſelf, what a ſtrange alteration has a few hours made in thee? <hi>Adam where art thou?</hi> And thus I am come to the laſt acception of which the words ſeem capable, <hi>viz.</hi> as they are,</p>
+            <p>6. <hi>Verba monitoris culpam ſuam in memoriam reducen<g ref="char:EOLhyphen"/>tis:</hi> the words of a monitor putting the offender in mind of his offence; for God does not ask, as if <hi>Adams</hi> iniquity were hid from his eyes, but that he might lay it open to his own. Compare this former with thy preſent condition. <hi>Qualis ex quali factus?</hi> Whats become of the ſerpents promiſes and thy vain confidence in them? What Pannick fear is that which has now ſeized upon thee? Thy flight proclaims thy guilt; thou didſt not ſeek ſuch ſtarting-holes as theſe during the time of thy innocency; ſee what a kindneſs thy ſins has done thee to turn thy love into fear, and to teach thee to flye from
+<pb n="23" facs="tcp:118998:12"/> thy God, whom before thou didſt ſeek will all thy heart; compare thy former happineſs with thy preſent miſery, that ſo thou mayeſt regain by repentance, what thou haſt already loſt by diſobedience.</p>
+            <p>
+               <hi>Adam where art thou?</hi> ſo that two things may we learn from hence; the one from the matter, the other from the form or manner of this reproof.</p>
+            <q>
+               <label type="milestone">
+                  <seg type="milestoneunit">Concluſ. </seg>1</label> 1. That God does earneſtly deſire the repentance and life of a ſinner, and therefore he checks him in the career of his ſins, and puts him in mind how if he do not ſtop his courſe, he will quickly run headlong into the bottomleſs pit.</q>
+            <p>God goes but ſlowly when he goes about to puniſh, that ſo the ſinner repenting of his ſins may eſcape his judgments; like a tender father he enquires after his pro<g ref="char:EOLhyphen"/>digal ſon, when he had loſt and forgot himſelf, and hav<g ref="char:EOLhyphen"/>ing found him puts him in mind of the ruine into which his riot will bring him, and if he will be woo'd to a return, he will meet him half way and embrance him. When the ſinful off-ſpring of <hi>Adam</hi> do like their fore-fathers run from God, he is pleaſed in mercy to follow them; and to draw nigh to them, that ſo they may no longer eſtrange themſelves from him, and to put them in mind of the right way, that ſo they may no longer run on in their Erroneous courſes.</p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>1</label> 1. And has not God ſought us thus again and again? </p>
+            <p>Has not he cauſed his meſſengers to ſound their woes in our eares before ever he ſent them into our boſomes? Was not the ſword of vengeance firſt ſhak't over our heads, and then ſheathed in our bowels? and yet do we continue in our ſins with as little regret as formerly? Conſider that he is now pleaſed to allow another opportu<g ref="char:EOLhyphen"/>nity of laying to heart the hainouſneſs of our ſins; and therefore let us pray unto the Lord that he would give us grace in this our day to mind the things that concern our peace before they be hid from our eyes.</p>
+            <p n="2">2. And as God dealt with <hi>Adam</hi> when fallen, ſo ought<note place="margin">Gal. 6. 1.</note> we to do, with our brother when overtaken in an of<g ref="char:EOLhyphen"/>fence;
+<pb n="20" facs="tcp:118998:13"/> for when we ſee him offend God and do no<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> reprove him for it, we do as much as in us lyes, juſtify him. <hi>In omnibus peccantibus pecco, quando eos quos ſcio</hi>
+               <note place="margin">Proſp. de vit. contempt.</note> 
+               <hi>peccore quadam crudeli, animi malignitate non increpo:</hi> It is cruelty and not charity to ſee your neighbour out of the way, and not to labour preſently to reduce him, and that with meekneſs too, that a rebuke may not be con<g ref="char:EOLhyphen"/>ſtrued for a reproach, which that God did to <hi>Adam</hi> is deducible from the manner of this reproof, it is a gentle one, from whence it follows, in the ſecond place,</p>
+            <q>
+               <label type="milestone">
+                  <seg type="milestoneunit">Concluſ. </seg>2</label> 2. That the ſin of our brother ſhould not abate our charity, nor alienate our love and reſpect to his perſon.</q>
+            <p>When we hate a perſon, we hate to name him, and therefore when <hi>Saul</hi> ſought David in indignation, he did not ſay, <hi>where is David?</hi> but <hi>where is the ſon of Iſhai?</hi> the Jews did not ſay, <hi>where is Jeſus?</hi> but where is that fellow? but that God might declare that ſin it ſelf ſhould not a<g ref="char:EOLhyphen"/>lienate his love from his creature, though <hi>Adam</hi> had offended him, yet he allowed him his proper name, ſay<g ref="char:EOLhyphen"/>ing, <hi>Adam where art thou?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>
+               </label> And with ſuch gentle terms as theſe ſhould we treat our erring brethren, leſt pinching too hard and not fetch<g ref="char:EOLhyphen"/>ing blood we cauſe their wounds to feſter. <hi>Quicquid e<g ref="char:EOLhyphen"/>nim exacerbat animo dixeris, punientis eſt impetus non<g ref="char:EOLunhyphen"/>corrigentis</hi>
+               <note place="margin">S. Auguſt.</note> 
+               <hi>charitas.</hi> Charity is ſuch an enemy to paſſion that if your rebuke be perceived to have any of that cor<g ref="char:EOLhyphen"/>rupt mixture in it; the patient to whom you tender it, will never be induc'd to follow it. A reproof muſt be handled not like a ſword but a lancet, ſo it muſt not be the enemy, but the Phiſician that does the cure; and twill commend his skill if he can hide the point of it till the ſmart be over, for then will they reward that as a courteſy which otherwiſe they might poſſibly have look't upon as a piece of cruelty. Reproofs candyed over with good words like guilded pills looks pleaſantly, are ſwal<g ref="char:EOLhyphen"/>lowed ſuddenly, and work kindly. Though <hi>Adam</hi> had provok't God highly, yet was he pleaſed to give him a
+<pb n="21" facs="tcp:118998:13"/> fair and gentle ſummons in the words of my Text, ſay<g ref="char:EOLhyphen"/>ing, <hi>Adam, where art thou?</hi>
+            </p>
+            <p>And now to apply the whole, let me beg of you to exa<g ref="char:EOLhyphen"/>mine your ſelvs, whether your own conſciences, and your Miniſters, have not frequently call'd upon you to behold where you are; whether in a ſtate of grace, or under a ſentence of condemnation? whether in the narrow path that leads to life, or the broad road that leads to deſtructi<g ref="char:EOLhyphen"/>on? I wil not throw the firſt ſtone at you, your own actions will beſt acquaint you with your deſerts. Conſider therefore, could your conſciences <hi>plead not guilty</hi> if you were <hi>indicted</hi> for diſhonoring God, for contemning Chriſt, for wounding and blaſpheming his Holy Spirit? for crumbling his Sion into factions? for calling Religi<g ref="char:EOLhyphen"/>on to help out your faulty wares? for citing the name of God to make up weight and meaſure? for leaving good counſel at the Church where you heard it? for looking upon honeſty as the birth-right of fools? for ſcrambling for your particular intereſts, and not minding the pub<g ref="char:EOLhyphen"/>lick good (as if in the ſafety of the whole were not contained the good of each individual). Have you not againſt your own eyes and conſciences complied with the publick ſins of the times? Have you not <hi>eaten out</hi> the power of godlineſs <hi>by your corroding</hi> and ſatyrical cenſures of them that differ from you in forms of worſhip? and has not that your prejudice like a ſullen Porter kept bet<g ref="char:EOLhyphen"/>ter company out of your affections than ever it let in?</p>
+            <p>Whilſt others were caſting lots for Chriſts coat, have not you made it your buſineſs to divide it? <hi>if you have,</hi> the weakeſt-ſighted man in the world may read without the help of any other ſpectacles than your own actions <hi>where you are.</hi> Into what dregs of times are we fallen, when mens conſciences are ſo ſeared, their ſenſes ſo ſtopt, their foreheads ſo ſteel'd, their hearts ſo hardned, ſo much <hi>carnal byaſs</hi> clapt upon their ſouls, that all the art &amp; in<g ref="char:EOLhyphen"/>duſtry which we can uſe, cannot keep them ſtrait, but they will ſtil <hi>run aſide after their own inventions.</hi> O that remedies were as eaſie as complaints! Has not this Iron-age of
+<pb n="22" facs="tcp:118998:14" rendition="simple:additions"/> ours out done all before us in villanies? Were there ever ſo many the <hi>Divels factors</hi> amongſt us as now, who make it their buſineſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to <hi>drive on the interest of hell?</hi> 
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>la<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l how ſenſibly do's the deluge of ſin prevail over us? Is not Chriſt again put to open ſhame, whipt, ſcorn'd, and crucified; th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ugh his <hi>perſon</hi> cannot be reacht are not theſe affronts and injuries put upon <hi>his Spouſe the Church?</hi> Nay farther, do not men pleaſe and flatter themſelves in theſe miſch<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>efs? and pretend to do God good ſervice in killing his Son? Is it poſſible that you ſhould ſtile your ſelves <hi>men after Gods own h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>art,</hi> and yet do what <hi>his ſoul abhorrs?</hi> Can <hi>Hypocrites,</hi> can <hi>adulterers,</hi> can <hi>extortioners,</hi> can uncharitable <hi>Nabals,</hi> can <hi>factious diſturbers</hi> of the peace of <hi>Hieruſalem</hi> ever attain to that height of pre<g ref="char:EOLhyphen"/>ſumption, as to dream that their names are enroll'd in the catalogue of life? If ſuch as theſe be <hi>Chriſtians,</hi> who are <hi>Scythins?</hi> If theſe <hi>Saints,</hi> who are <hi>Divels?</hi> if theſe be God's <hi>favorites,</hi> who are his <hi>foes?</hi>
+            </p>
+            <p>Do you think to purchaſe heaven wi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h as much eaſe as you have done, it may be an opinion of ſanctity in your deluded brothers breaſt? Alas! it is not your hy<g ref="char:EOLhyphen"/>pocritical faces, your artificial tears, your long praiers, your civil language, your <hi>aguiſh holineſs</hi> which takes you by fits, nor is it your frequent attendance in this place that will do it. It is <hi>not every one that cries Lord, Lord, who ſhall preſently enter into the Kingdom of Heaven.</hi>
+            </p>
+            <p>How ambitious are you to <hi>be accounted</hi> juſt and mer<g ref="char:EOLhyphen"/>ciful, and yet how unwilling to <hi>be ſo?</hi> What ſevere cen<g ref="char:EOLhyphen"/>ſurers are you of your <hi>own crimes</hi> in other mens perſons, and how negligent of others in your own? What a ſin is Drunkenneſs in the Temple, and yet what a bleſſing in the Tavern? How loud are you againſt the ſins of the times when before others, and yet how cloſely do you hug them when you are <hi>by your ſelves?</hi> How freely do you ſpend your cenſures upon ſo many of your brethren as without ſcruple do any of thoſe things which you up<g ref="char:EOLhyphen"/>on <hi>falſe grounds</hi> have fondly condemned as utterly un<g ref="char:EOLhyphen"/>lawful? and yet how angry are you, when upon ſuch
+<pb n="23" facs="tcp:118998:14"/> just grounds they ſtile you <hi>uncharitable?</hi> Have you not firſt l<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t <hi>your reaſon,</hi> and then <hi>your modeſty</hi> in your ſins? act<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng upon the <hi>open ſt<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ge</hi> what at firſt you did but <hi>behind the cu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tains,</hi> and ſaying in the blindneſs of your heart, <hi>Tuſh, God does not ſee it:</hi> And therefore does not a para<g ref="char:EOLhyphen"/>ſite find better entertainment amongſt you then a Pro<g ref="char:EOLhyphen"/>phet? As if you had rather be <hi>cozen'd</hi> with a <hi>flattering li<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> than <hi>cur'd</hi> with a <hi>galling truth.</hi> What murmurings, what d<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>contents, what repinings are there continually amongſt you?</p>
+            <p>Did you formerly ſurfeit upon peace and plenty, that you now nauſeate even the beſt of Gods bleſſings? Suppoſe God ſhould not ſtrike off your chariot wheels till you were in the red ſea; ſuppoſe he ſhould no<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>b or check you in this your careere by your miniſters, or judgments, what incredible haſt would you make into the bottomleſs pit? But conſider in this your day that he does once more ſtretch for<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h hi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hand to a gain-ſaying, and rebellious people: He now calls upon you as a Judg, to try whether you can acquit your ſelves of the whole, or excuſe your ſelves in part of theſe crimes, theſe crying ſins that are laid to your charge. Does he not ſome<g ref="char:EOLhyphen"/>times cauſe your conſciences to reado you that ſentence of condemnation under which you lye, that ſo if by any means poſſible he might move you to repentance: Does he not mitigate the ſeverity of a judg with the tenderneſs of a father, and ſhew how unwillingly? he is to diſinherit you; and how deſirous rather that you ſhould return and live. Does he not like a Phyſician make a ſearch into your diſeaſe, the ſad condition in which your ſouls lie? That ſo having made you ſenſible of your diſtemper and dan<g ref="char:EOLhyphen"/>ger you may be deſirous of a cure. Does he not call to you in pitty, and ſhew you how you are even upon the brink of deſtruction, ſo that there is hardly a hairs breadth between you and miſery? Has he not frequently decla<g ref="char:EOLhyphen"/>red to you by his prophets, in how unſafe a condition you are, and how much at a loſſe, if he ſhould call you <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o an account for your ſtewardſhip? Has he not now
+<pb n="24" facs="tcp:118998:15" rendition="simple:additions"/> ſent me to tell you that if you knew where you wer<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, in what a ſinful, and ſo miſerable condition, your hearts <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> guſh out at your eyes in tears of pitty for your ſelves? Hearken then to this voice (as <hi>Adam</hi> did to Gods) all ye that have his fear before your eyes, and eſpecially you that are ſuperiors; for your charge is grea<g ref="char:EOLhyphen"/>ter then other mens, you have received more talents and ſo have a greater account to give in the last day; con<g ref="char:EOLhyphen"/>ſider that you are now in the Church reaping that benefit from us, which we may expect from you when in your counſels; and therefore when ever you ſit down to conſult, remember the Church and ſervants of God, that when we kneel down to pray, we may not forget the State and hers.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:118998:15" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
